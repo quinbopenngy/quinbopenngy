@@ -1,0 +1,7 @@
+{
+  "name": "MediClaim - Medical Cost Submission & OCR",
+  "description": "Smart medical receipt cost submission with automated OCR data extraction and Excel XLSX export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
